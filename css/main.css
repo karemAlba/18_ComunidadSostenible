@@ -1,0 +1,133 @@
+.imagen{
+	width: 1263px;
+	height: 500px;
+}
+
+.logo{
+	width: 150px;
+	height: 120px;
+}
+
+li{
+	display: inline-block;
+	margin: 20px;
+	padding: 20px;
+}
+
+.fondog{
+	background-color: #D0D3CF;
+	width: 100%;
+	padding: 10%;
+
+}
+
+.texto{
+	color: #3B3B3B;
+
+}
+
+.img1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.img2{
+	margin-top: 30px;
+	height: 100%;
+	width: 618px;
+}
+
+.fondomet{
+	background-image: url("../img/fondo.jpg");
+	height: 412px;	
+	margin-top: 30px;
+ 	margin-right: 0;
+ 	padding: 100px;
+ 	color: white;
+}
+
+.espacio{
+	margin-top: 30px;
+	margin-bottom: 50px;
+	padding: 50px;
+}
+
+.servicios{
+	margin-top: 130px;
+}
+
+.titulo{
+	color: green;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+.texto1{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.fondover{
+	background-color: #8CA95A;
+}
+
+.img3{
+	width: 80%;
+	height: 90%;
+	margin-left: 120px;
+}
+
+.img4{
+	border-radius: 180px;
+	margin-top: 20px;
+}
+
+.logos{
+	width: 50px;
+	height: 50px;
+}
+
+.espacio{
+	margin-left: 20px;
+}
+
+.fondogris{
+	background-image: url("../img/fondo2.jpg");
+}
+
+.slider{
+	width: 300px;
+	height: 300px;	
+}
+
+.flechas{
+	margin-top: 150px;
+}
+
+.cajas{
+	border: solid 1px white;
+	color: white;
+	margin-left: 0px;
+	
+}
+.fondoneg{
+	background-color: black;
+}
+
+.iconos{
+	width: 50px;
+	height: 50px;
+	margin-left: 250px; 
+	margin-top: 100px; 
+
+}
+
+footer{
+	margin-left: 50px;
+}
+
+
+
+
